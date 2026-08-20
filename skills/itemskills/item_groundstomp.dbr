@@ -255,7 +255,7 @@ radiusEffectName,records/fx/skillsother/attackradius/groundstomp_radius_fxpak01.
 skillBaseDescription,tagItemSkillB034Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagItemSkillB034Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_earth_aoe_down.tex,
 skillManaCostReduction,0.000000,

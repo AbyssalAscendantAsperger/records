@@ -256,7 +256,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,1.200000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass06SkillName17A,
 skillDownBitmapName,ui/skills/icons/class06/skillicon_graspingvines1down.tex,
 skillHitSound,records/sounds/skillsounds/class06/spak_graspingvines_cast.dbr,

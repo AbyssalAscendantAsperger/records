@@ -635,7 +635,7 @@ skillActivatedAuraName,records/fx/skillsother/buff/magicalshield_blue_loop_fx01.
 skillActivatedSound,records/sounds/skillsounds/class03/spak_circleofprotection_cast01.dbr,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,40.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class03/spak_circleofprotection_cast01.dbr,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,

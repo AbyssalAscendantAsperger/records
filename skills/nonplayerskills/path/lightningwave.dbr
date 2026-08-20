@@ -256,7 +256,7 @@ skillConnectionOff,ingameui/icons/skills/skillbars/skillbarbottomoff01.tex;ingam
 skillConnectionOn,ingameui/icons/skills/skillbars/skillbarbottomon01.tex;ingameui/icons/skills/skillbars/skillbarmiddleon01.tex;ingameui/icons/skills/skillbars/skillbarconnecton01.tex;ingameui/icons/skills/skillbars/skillbarmiddleon01.tex;ingameui/icons/skills/skillbars/skillbartopon01.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,5.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,xtagSkillDreamName004,
 skillDownBitmapName,xpack/ui/icons/skills/distortionwavedown01.tex,
 skillHitSound,records/sounds/skillsounds/nonplayer/spak_electricalblast.dbr,

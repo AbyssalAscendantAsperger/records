@@ -277,7 +277,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchup.tex;ui/
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchup.tex;ui/skills/skillallocation/skills_connectortransmuteronstub.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass04SkillName04A,
 skillDownBitmapName,ui/skills/icons/class04/skillicon_ringofsteel1down.tex,
 skillManaCost,26.000000;29.000000;32.000000;36.000000;40.000000;44.000000;48.000000;53.000000;58.000000;64.000000;68.000000;74.000000;78.000000;84.000000;88.000000;94.000000;98.000000;103.000000;108.000000;112.000000;117.000000;121.000000;126.000000;131.000000;135.000000;140.000000,

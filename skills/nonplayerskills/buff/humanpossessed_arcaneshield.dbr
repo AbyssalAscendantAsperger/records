@@ -606,7 +606,7 @@ skillActivatedSound,records/sounds/skillsounds/class05/spak_arcanemirror_activat
 skillActiveDuration,5.000000,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,15.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class05/spak_arcanemirror_deactivate.dbr,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,

@@ -646,7 +646,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,32.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class01/spak_rampagedeactivate01.dbr,
 skillDisplayName,tagClass01SkillName09A,
 skillDownBitmapName,ui/skills/icons/class01/skillicon_fieldcommand1_down.tex,

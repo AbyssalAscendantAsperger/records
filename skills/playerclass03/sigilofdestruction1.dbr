@@ -256,7 +256,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass03SkillName10A,
 skillDownBitmapName,ui/skills/icons/class03/skillicon_sigilofdestruction1down.tex,
 skillHitSound,records/sounds/skillsounds/class03/spak_sigilofdestruction_cast01.dbr,

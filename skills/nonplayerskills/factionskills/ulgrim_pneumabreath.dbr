@@ -651,7 +651,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchdown.tex;u
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchdown.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,20.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass04SkillName06A,
 skillDownBitmapName,ui/skills/icons/class04/skillicon_nightbladeenchant1down.tex,
 skillLifePercent,30.000000,

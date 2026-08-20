@@ -255,7 +255,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,20.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass06SkillName04A,
 skillDownBitmapName,ui/skills/icons/class06/skillicon_stormcloud1down.tex,
 skillHitSound,records/sounds/skillsounds/class06/spak_winddevil_cast01.dbr,

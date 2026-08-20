@@ -704,7 +704,7 @@ skillActivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_activa
 skillActiveDuration,8.000000,
 skillBaseDescription,tagConsumableSkill_A22Desc,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,90.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_deactivate.dbr,
 skillDisplayName,tagConsumableSkill_A22,
 skillDownBitmapName,items/craftingparts/materials/material_a002_aethercrystal_down.tex,

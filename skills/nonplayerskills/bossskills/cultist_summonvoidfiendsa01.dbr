@@ -18,7 +18,7 @@ petBurstSpawn,3;3;3;3;3;3;3;3;3;3;3;3;3;3;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;4;
 petLimit,6;6;6;6;6;6;6;6;6;6;6;6;6;6;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;8;10;10;10;10;10;10;10;10;10,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,8.000000,
+skillCooldownTime,1.000000,
 skillHitSound,records/sounds/skillsounds/nonplayer/spak_summonotherworld_cast.dbr,
 skillManaCost,50.000000,
 skillManaCostReduction,0.000000,

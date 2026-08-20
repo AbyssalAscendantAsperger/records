@@ -654,7 +654,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchdown.tex;u
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchdown.tex;ui/skills/skillallocation/skills_connectortransmuteronstub.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,8.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class03/spak_witchfire_off.dbr,
 skillDisplayName,tagClass04SkillName06A,
 skillDownBitmapName,ui/skills/icons/class04/skillicon_nightbladeenchant1down.tex,

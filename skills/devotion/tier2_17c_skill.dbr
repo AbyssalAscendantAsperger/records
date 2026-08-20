@@ -686,7 +686,7 @@ skillActivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_activa
 skillBaseDescription,tagDevotionEffectB17Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_deactivate.dbr,
 skillDisplayName,tagDevotionEffectB17,
 skillDownBitmapName,ui/skills/devotion/bufficons/devotionbuttons_crab_down.tex,

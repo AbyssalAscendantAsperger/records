@@ -336,7 +336,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchdown.tex;u
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchdown.tex;ui/skills/skillallocation/skills_connectortransmuteronstub.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass04SkillName01A,
 skillDownBitmapName,ui/skills/icons/class04/skillicon_phantomblades1down.tex,
 skillManaCost,25.000000;29.000000;33.000000;37.000000;41.000000;45.000000;49.000000;54.000000;59.000000;64.000000;69.000000;74.000000;79.000000;84.000000;89.000000;94.000000;99.000000;104.000000;109.000000;114.000000;119.000000;124.000000;129.000000;134.000000;139.000000;145.000000,

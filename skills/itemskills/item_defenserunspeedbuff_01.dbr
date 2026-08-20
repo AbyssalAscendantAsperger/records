@@ -636,7 +636,7 @@ skillActiveDuration,2.500000;2.600000;2.700000;2.800000;2.900000;3.000000;3.0000
 skillBaseDescription,tagItemSkillA008Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,18.000000;17.000000;16.000000;15.000000;14.000000;13.000000;12.000000;11.000000;10.000000;10.000000,
+skillCooldownTime,1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000,
 skillDisplayName,tagItemSkillA008Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_earth_buff_down.tex,
 skillManaCostReduction,0.000000,

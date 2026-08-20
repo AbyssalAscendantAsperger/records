@@ -651,7 +651,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,12.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class03/spak_bloodofdreeg_deactivate.dbr,
 skillDisplayName,tagClass03SkillName04A,
 skillDownBitmapName,ui/skills/icons/class03/skillicon_bloodofdreeg1down.tex,

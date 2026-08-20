@@ -647,7 +647,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,2.500000;2.400000;2.300000;2.200000;2.100000;2.000000;2.000000;1.900000;1.900000;1.800000;1.800000;1.700000;1.700000;1.600000;1.600000;1.500000;1.500000;1.400000;1.400000;1.300000;1.300000;1.200000;1.200000;1.100000;1.100000;1.000000,
+skillCooldownTime,1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000;1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class02/spak_vindictiveflame_off.dbr,
 skillDisplayName,tagClass02SkillName13A,
 skillDownBitmapName,ui/skills/icons/class02/skillicon_vindictiveflame1_down.tex,

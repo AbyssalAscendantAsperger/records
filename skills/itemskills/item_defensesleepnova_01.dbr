@@ -283,7 +283,7 @@ radiusEffectName,records/fx/skillsother/attackradius/sandsofnox_radius_fxpak01.d
 skillBaseDescription,tagItemSkillB003Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,5.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagItemSkillB003Name,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,

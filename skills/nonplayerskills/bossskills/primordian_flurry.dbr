@@ -632,7 +632,7 @@ skillActivatedSound,records/sounds/skillsounds/class01/spak_forcebladestart01.db
 skillActiveDuration,4.000000,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,12.000000,
+skillCooldownTime,1.000000,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMaxLevel,1,

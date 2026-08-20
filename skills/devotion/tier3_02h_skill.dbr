@@ -250,7 +250,7 @@ radiusEffectName,records/fx/skillsdevotion/abomination_vileeruption_radius_fxpak
 skillBaseDescription,tagDevotionEffectC02Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagDevotionEffectC02,
 skillDownBitmapName,ui/skills/icons/skillicon_devotionstar01_down.tex,
 skillExperienceLevels,0;160000;371336;672776;1116836;1771443;2721398;4069700;5938761;8471532,

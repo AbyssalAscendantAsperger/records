@@ -280,7 +280,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchdown.tex;u
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchdown.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,7.500000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass01SkillName04A,
 skillDownBitmapName,ui/skills/icons/class01/skillicon_battlefury_down.tex,
 skillHitSound,records/sounds/skillsounds/class01/spak_warcry_gust01.dbr,

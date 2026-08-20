@@ -667,7 +667,7 @@ skillActivatedAuraName,records/fx/skillsother/itemskills/wardofgulamash1_activat
 skillBaseDescription,tagItemSkillD205Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,20.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagItemSkillD205Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_blastshieldbluedown.tex,
 skillManaCostReduction,0.000000,
