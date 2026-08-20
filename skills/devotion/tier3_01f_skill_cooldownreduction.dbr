@@ -699,7 +699,7 @@ skillActiveDuration,3.000000;3.100000;3.200000;3.300000;3.400000;3.500000;3.6000
 skillBaseDescription,tagDevotionEffectC01Desc,
 skillCooldownReduction,100.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,50.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagDevotionEffectC01,
 skillDownBitmapName,ui/skills/icons/skillicon_devotionstar01_down.tex,
 skillExperienceLevels,0;160000;371336;672776;1116836;1771443;2721398;4069700;5938761;8471532,

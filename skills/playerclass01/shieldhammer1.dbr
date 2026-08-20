@@ -294,7 +294,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchdown.tex;u
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchdown.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,2.800000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass01SkillName02A,
 skillDownBitmapName,ui/skills/icons/class01/skillicon_shieldhammer1down.tex,
 skillHitSound,records/sounds/skillsounds/class01/spak_brutalimpact_hit01.dbr,

@@ -632,7 +632,7 @@ skillActivatedSound,records/sounds/skillsounds/class03/spak_bloodofdreeg_cast.db
 skillBaseDescription,tagItemSkillD088Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,20.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class03/spak_bloodofdreeg_deactivate.dbr,
 skillDisplayName,tagItemSkillD088Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_summonchthonianharbinger_down.tex,

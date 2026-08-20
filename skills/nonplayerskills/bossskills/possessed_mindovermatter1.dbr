@@ -714,7 +714,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchup.tex;ui/
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchup.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,32.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass05SkillName15A,
 skillDownBitmapName,ui/skills/icons/class05/skillicon_mindovermatter1down.tex,
 skillManaCostReduction,0.000000,

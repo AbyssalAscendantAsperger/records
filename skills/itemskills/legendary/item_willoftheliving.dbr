@@ -647,7 +647,7 @@ skillActivatedAuraName,records/fx/skillsother/itemskills/energyshieldblue_loop_f
 skillActivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_activate.dbr,
 skillActiveDuration,2.000000,
 skillBaseDescription,tagItemSkillD210Desc,
-skillCooldownTime,18.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_deactivate.dbr,
 skillDisplayName,tagItemSkillD210Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_guardianswill_down.tex,

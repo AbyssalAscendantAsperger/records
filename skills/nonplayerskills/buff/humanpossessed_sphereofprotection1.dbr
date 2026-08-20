@@ -604,7 +604,7 @@ skillActivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_activa
 skillActiveDuration,12.000000,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,32.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_deactivate.dbr,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,

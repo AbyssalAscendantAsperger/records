@@ -647,7 +647,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.500000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass01SkillName03A,
 skillDownBitmapName,ui/skills/icons/class01/skillicon_blitz1_down.tex,
 skillHitSound,records/sounds/skillsounds/class01/spak_blitz.dbr,

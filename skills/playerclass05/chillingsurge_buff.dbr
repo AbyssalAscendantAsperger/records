@@ -604,7 +604,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,6.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass05SkillName16A,
 skillDownBitmapName,ui/skills/icons/class05/skillicon_chillingsurge_down.tex,
 skillManaCost,30.000000;33.000000;37.000000;41.000000;45.000000;49.000000;54.000000;59.000000;64.000000;70.000000;76.000000;81.000000;86.000000;92.000000;98.000000;103.000000;108.000000;114.000000;120.000000;125.000000;130.000000;135.000000,

@@ -666,7 +666,7 @@ skillActivatedAuraName,records/fx/skillsother/itemskills/wyrmscale1_activate_fx.
 skillBaseDescription,tagItemSkillD219Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,20.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagItemSkillD219Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_blastshieldyellowdown.tex,
 skillManaCostReduction,0.000000,

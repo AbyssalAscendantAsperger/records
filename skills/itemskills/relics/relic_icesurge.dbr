@@ -653,7 +653,7 @@ skillActivatedSound,records/sounds/skillsounds/class01/spak_counterstrike_buff.d
 skillBaseDescription,tagRelicSkillB004Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,2.500000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class01/spak_counterstrike_off.dbr,
 skillDisplayName,tagRelicSkillB004Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_ringflameblue_down.tex,

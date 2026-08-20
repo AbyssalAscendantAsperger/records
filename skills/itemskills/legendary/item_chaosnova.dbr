@@ -259,7 +259,7 @@ radiusEffectName,records/fx/skillsother/attackradius/chaosnova_radius_fxpak01.db
 skillBaseDescription,tagItemSkillD049Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagItemSkillD049Name,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,

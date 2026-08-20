@@ -632,7 +632,7 @@ skillActiveDuration,5.000000;6.000000;6.000000;7.000000;7.000000;8.000000;8.0000
 skillBaseDescription,tagDevotionEffectC11Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,15.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagDevotionEffectC11,
 skillDownBitmapName,ui/skills/devotion/bufficons/devotionbuttons_mogdrogen_down.tex,
 skillExperienceLevels,0;160000;371336;672776;1116836;1771443;2721398;4069700;5938761;8471532,

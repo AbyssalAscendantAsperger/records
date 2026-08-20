@@ -334,7 +334,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,4.500000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass02SkillName05A,
 skillDownBitmapName,ui/skills/icons/class02/skillicon_mortartrap1_down.tex,
 skillManaCost,45.000000;49.000000;53.000000;57.000000;61.000000;65.000000;69.000000;73.000000;77.000000;81.000000;85.000000;89.000000;93.000000;97.000000;101.000000;105.000000;109.000000;113.000000;117.000000;121.000000;125.000000;129.000000;133.000000;137.000000;141.000000;145.000000,

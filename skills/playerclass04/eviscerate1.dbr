@@ -724,7 +724,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,1.800000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass04SkillName14A,
 skillDownBitmapName,ui/skills/icons/class04/skillicon_lethalgambit1down.tex,
 skillManaCost,12.000000;15.000000;18.000000;21.000000;24.000000;27.000000;30.000000;33.000000;37.000000;41.000000;45.000000;49.000000;53.000000;57.000000;61.000000;65.000000;69.000000;73.000000;77.000000;81.000000;85.000000;89.000000;93.000000;97.000000;101.000000;105.000000,

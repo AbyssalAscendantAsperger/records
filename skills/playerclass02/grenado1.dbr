@@ -280,7 +280,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchup.tex;ui/
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchup.tex;ui/skills/skillallocation/skills_connectortransmuteronstub.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,2.500000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass02SkillName01A,
 skillDownBitmapName,ui/skills/icons/class02/skillicon_grenado1_down.tex,
 skillManaCost,25.000000;28.000000;31.000000;34.000000;37.000000;40.000000;43.000000;46.000000;49.000000;52.000000;55.000000;58.000000;61.000000;64.000000;67.000000;70.000000;73.000000;76.000000;79.000000;82.000000;85.000000;88.000000;91.000000;94.000000;97.000000;100.000000,

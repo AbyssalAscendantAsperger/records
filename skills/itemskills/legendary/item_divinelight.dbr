@@ -646,7 +646,7 @@ skillActivatedAuraName,records/fx/skillsother/itemskills/divinelight_loop_fx01.d
 skillActivatedSound,records/sounds/skillsounds/nonplayer/spak_healinggeneric.dbr,
 skillActiveDuration,3.000000,
 skillBaseDescription,tagItemSkillD075Desc,
-skillCooldownTime,120.000000,
+skillCooldownTime,1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class01/spak_rampagedeactivate01.dbr,
 skillDisplayName,tagItemSkillD075Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_guardianswill_yellow_down.tex,

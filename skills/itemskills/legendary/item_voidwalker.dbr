@@ -671,7 +671,7 @@ skillActivatedAuraName,records/fx/skillsother/itemskills/voidwalker1_activate_fx
 skillBaseDescription,tagItemSkillD204Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,20.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagItemSkillD204Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_blastshieldpurpledown.tex,
 skillManaCostReduction,0.000000,

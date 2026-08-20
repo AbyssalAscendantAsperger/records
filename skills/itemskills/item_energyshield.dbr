@@ -684,7 +684,7 @@ skillActivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_activa
 skillBaseDescription,tagItemSkillC027Desc,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,40.000000;30.000000,
+skillCooldownTime,1.000000;1.000000,
 skillDeactivatedSound,records/sounds/skillsounds/class05/spak_aether_shield_deactivate.dbr,
 skillDisplayName,tagItemSkillC027Name,
 skillDownBitmapName,ui/skills/icons/itemskills/skillicon_energyshield_green_down.tex,

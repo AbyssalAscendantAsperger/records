@@ -243,7 +243,7 @@ offensiveTotalDamageReductionPercentMin,8.000000;9.000000;10.000000;11.000000;12
 skillChanceWeight,15,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,4.000000,
+skillCooldownTime,1.000000,
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMaxLevel,10,

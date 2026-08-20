@@ -645,7 +645,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffbranchdown.tex;u
 skillConnectionOn,ui/skills/skillallocation/skills_connectoronbranchdown.tex;ui/skills/skillallocation/skills_connectortransmuteronstub.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,3.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass06SkillName02A,
 skillDownBitmapName,ui/skills/icons/class06/skillicon_wildstrike1_down.tex,
 skillHitSound,records/sounds/skillsounds/class06/spak_primalstrike_cast.dbr,

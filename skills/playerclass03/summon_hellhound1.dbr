@@ -297,7 +297,7 @@ skillConnectionOff,ui/skills/skillallocation/skills_connectoroffcenter.tex;ui/sk
 skillConnectionOn,ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex;ui/skills/skillallocation/skills_connectoroncenter.tex,
 skillCooldownReduction,0.000000,
 skillCooldownReductionModifier,1000.000000,
-skillCooldownTime,18.000000,
+skillCooldownTime,1.000000,
 skillDisplayName,tagClass03SkillName02A,
 skillDownBitmapName,ui/skills/icons/class03/skillicon_hellhoundsummon1down.tex,
 skillHitSound,records/sounds/skillsounds/class01/spak_rampageactivate01.dbr,
